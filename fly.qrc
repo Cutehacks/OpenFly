@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/airport.png</file>
+        <file>images/arrival.png</file>
+        <file>images/departure.png</file>
+        <file>images/dot_gray.png</file>
+        <file>images/dot_white.png</file>
+        <file>images/settings.png</file>
+        <file>images/ninja.png</file>
+        <file>images/border.png</file>
+        <file>images/border_selected.png</file>
+        <file>images/info.png</file>
+        <file>qml/Airports.qml</file>
+        <file>qml/Arrivals.qml</file>
+        <file>qml/Departures.qml</file>
+        <file>qml/Main.qml</file>
+        <file>qml/Theme.qml</file>
+        <file>qml/Footer.qml</file>
+        <file>qml/Header.qml</file>
+        <file>qml/About.qml</file>
+        <file>qml/Dot.qml</file>
+        <file>qml/AirportItem.qml</file>
+        <file>qml/DoubleText.qml</file>
+        <file>qml/ArrivalItem.qml</file>
+        <file>qml/DepartureItem.qml</file>
+        <file>qml/MeeGoWindow.qml</file>
+        <file>qml/Loading.qml</file>
+        <file>images/loading0.png</file>
+        <file>images/loading1.png</file>
+        <file>images/loading2.png</file>
+        <file>images/loading3.png</file>
+        <file>images/loading4.png</file>
+        <file>images/loading5.png</file>
+        <file>images/loading6.png</file>
+        <file>images/loading7.png</file>
+        <file>images/loading8.png</file>
+        <file>images/loading9.png</file>
+        <file>images/loading10.png</file>
+        <file>images/loading11.png</file>
+    </qresource>
+</RCC>

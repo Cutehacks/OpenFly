@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="96px" height="96px" viewBox="0 0 96 96" enable-background="new 0 0 96 96" xml:space="preserve">
+<defs>
+</defs>
+<rect id="BOUNDING_BOX_1_" fill="none" width="96" height="96"/>
+<path id="SHADOW_1_" opacity="0.4" d="M88.023,49c0,29.633-10.364,40-40,40c-29.635,0-40-10.367-40-40c0-29.634,10.366-40,40-40
+	C77.659,9,88.023,19.365,88.023,49z"/>
+<path fill="#FFA033" d="M88,47.978c0-29.634-10.363-40-40-40c-29.635,0-40,10.365-40,40c0,29.633,10.365,40,40,40
+	C77.637,87.979,88,77.611,88,47.978z"/>
+<path fill="#FF8800" d="M48,87.979c29.637,0,40-10.367,40-40c0-3.294-0.137-6.338-0.404-9.168
+	c-34.675,0.649-57.618,3.984-78.744,22.041C11.853,80.681,23.148,87.979,48,87.979z"/>
+<linearGradient id="DARK_BEVEL_3_" gradientUnits="userSpaceOnUse" x1="47.9995" y1="7.4395" x2="47.9995" y2="88.1343">
+	<stop  offset="0.3614" style="stop-color:#000000;stop-opacity:0"/>
+	<stop  offset="1" style="stop-color:#000000"/>
+</linearGradient>
+<path id="DARK_BEVEL_2_" opacity="0.23" fill="url(#DARK_BEVEL_3_)" d="M88,47.978c0,29.633-10.363,40-40,40
+	c-29.635,0-40-10.367-40-40c0-29.634,10.365-40,40-40C77.637,7.979,88,18.344,88,47.978z"/>
+<linearGradient id="LIGHT_BEVEL_3_" gradientUnits="userSpaceOnUse" x1="47.9995" y1="3.5234" x2="47.9995" y2="78.5067">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.18"/>
+</linearGradient>
+<path id="LIGHT_BEVEL_1_" opacity="0.4" fill="url(#LIGHT_BEVEL_3_)" d="M88,47.978c0,29.633-10.363,40-40,40
+	c-29.635,0-40-10.367-40-40c0-29.634,10.365-40,40-40C77.637,7.979,88,18.344,88,47.978z"/>
+<linearGradient id="HIGHLIGHTS_2_" gradientUnits="userSpaceOnUse" x1="47.9995" y1="8.2319" x2="47.9995" y2="87.4771">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+</linearGradient>
+<path id="HIGHLIGHTS_1_" opacity="0.25" fill="url(#HIGHLIGHTS_2_)" d="M48,7.979c-29.635,0-40,10.365-40,40
+	c0,29.633,10.365,40,40,40c29.637,0,40-10.367,40-40C88,18.344,77.637,7.979,48,7.979z M48,87.002c-29.159,0-39-9.848-39-39.024
+	C9,18.803,18.841,8.956,48,8.956c29.158,0,39,9.847,39,39.022C87,77.154,77.158,87.002,48,87.002z"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="16.9287" y1="49" x2="75.0713" y2="49">
+	<stop  offset="0" style="stop-color:#332511"/>
+	<stop  offset="0.4094" style="stop-color:#534533"/>
+	<stop  offset="0.7718" style="stop-color:#685B4A"/>
+	<stop  offset="1" style="stop-color:#706352"/>
+</linearGradient>
+<path opacity="0.6" fill="url(#SVGID_1_)" d="M31.965,53.233l13.26-5.056l3.159,16.624l6.646-2.495l1.908-18.568l16.386-6.221
+	c1.679-0.648,2.237-2.074,1.282-3.176c-0.986-1.103-3.126-1.459-4.803-0.843l-16.518,6.287l-21.091-4.569l-4.705,0.647l14.114,8.361
+	L28.346,49.28l-6.383-1.815l-5.034,1.912l7.041,4.213l0.724,6.61l4.441-1.717L31.965,53.233L31.965,53.233L31.965,53.233
+	L31.965,53.233z"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="53.5107" y1="61.9355" x2="41.7662" y2="29.6676">
+	<stop  offset="0" style="stop-color:#FFBB54"/>
+	<stop  offset="0.249" style="stop-color:#FFC875"/>
+	<stop  offset="0.5733" style="stop-color:#FFD69B"/>
+	<stop  offset="0.8352" style="stop-color:#FFDFB2"/>
+	<stop  offset="1" style="stop-color:#FFE2BA"/>
+</linearGradient>
+<path fill="url(#SVGID_2_)" d="M31.965,52.233l13.26-5.056l3.159,16.624l6.646-2.495l1.908-18.568l16.386-6.221
+	c1.679-0.648,2.237-2.074,1.282-3.176c-0.986-1.102-3.126-1.458-4.803-0.843l-16.518,6.287l-21.091-4.57l-4.705,0.648l14.114,8.361
+	L28.346,48.28l-6.383-1.815l-5.034,1.912l7.041,4.213l0.724,6.61l4.442-1.717L31.965,52.233L31.965,52.233L31.965,52.233
+	L31.965,52.233z"/>
+</svg>
