@@ -14,7 +14,6 @@ DEFINES += TARGET="\"$$TARGET\"" VERSION="\"$$VERSION\""
 HEADERS +=  \
             node.h \
             receiver.h \
-            util.h \
             xmldatasource.h \
             airportnames.h \
             flightstatuses.h \
